@@ -36,8 +36,9 @@ p {
 .bar {
 	border-bottom: 4px solid #ccc;
 	width:80%;
-	height:25%;
-	margin:0 10%;
+	height:15%;
+	margin: 5% 10% 0 10%;
+
 }
 
 header{
@@ -88,9 +89,9 @@ a:visited {
 
 .field{
 	background-image: url("../images/vintage-concrete.png");
-	height: 250%;
+	height: 120%;
 	position: relative;
-	padding: 0;
+	padding-left: 10%;
 }
 main, aside{
 	position:relative;
@@ -114,8 +115,8 @@ aside {
 	width: 270px;
 	float: left;
 	position: relative;
-	top: -86.35%;
-	left: 54%;
+	top: -85.8%;
+	left: 60%;
 	margin: 0 10px;
 	padding:0 10px;
 	overflow: visible;
@@ -164,7 +165,7 @@ img {
 	text-align: center;
 	background: #4aaaa5;
 	color: #fff;
-	padding: 10px;
+	padding-top: 14px;
 
 }
 
